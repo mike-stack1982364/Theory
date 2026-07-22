@@ -4,9 +4,9 @@
 
 **Ontological Worlds** is a generative relational-reasoning architecture. Its central object is **relational integration**:
 
-> The combination of multiple relations into a unified, internally compatible model whose unstated implications, precise qualitative structure and possible transformations can be inferred.
+> The combination of multiple relations into a unified, internally compatible model whose unstated implications, precise qualitative structure and possible transformations can be inferred, compressed, synthesised, embodied and transferred.
 
-The system does not reduce intelligence to isolated associations. It asks the learner to construct a world in which several relations must be maintained, compared, compressed, inferred, distinguished, synthesised, generated, revised and transferred without breaking the model that contains them.
+The system asks the learner to construct a world in which relations develop through several mutually reinforcing layers. Associations supply material; relational bindings organise that material; ontological categories identify the transformations occurring; directional topology gives those transformations relative position; the eight meta-operations progressively develop the field; the World Building Method embodies it; and temporal recurrence allows it to accumulate history and revision.
 
 Its principal layers are:
 
@@ -15,28 +15,38 @@ Its principal layers are:
 3. **Relational integration** combines several bindings into one coherent model.
 4. **Ontological categories** specify the type of relation or transformation occurring.
 5. **Perspective** specifies whether that operation is represented inwardly, outwardly or archetypally.
-6. **Directional topology** specifies relative position within the current mapping.
-7. **Eight meta-operations** supervise mapping, compression, coherence, inference, discrimination, synthesis, generation and transfer.
-8. **The World Building Method** generates and transfers a constraint-compatible context.
-9. **Temporal recurrence** requires earlier bindings to be retained, updated and recombined over time.
+6. **Directional topology** specifies relative position and relational weighting within the current mapping.
+7. **Eight meta-operations** develop the field through mapping, compression, coherence, inference, distinction, synthesis, generation and transfer.
+8. **The World Building Method** embodies the resulting architecture as a concrete, constraint-compatible world.
+9. **Temporal recurrence** allows earlier bindings to be retained, revised and recombined as the world develops.
 
 A compact representation is:
 
 `World instance = <nodes, bindings, category, perspective, topology, domain, temporal state>`
 
-None of these coordinates should be collapsed into another. A category has no permanent direction; a direction has no permanent semantic meaning; a domain supplies content but does not determine structure.
+The architecture becomes powerful through coordination among these coordinates. Domain supplies content; category supplies transformation; perspective supplies orientation; topology supplies location; temporal state supplies history; and the meta-operations organise their development into a coherent whole.
 
 ---
 
 ## 2. From association to relational integration
 
-Associative learning makes one event, symbol or idea predictive of another. This is necessary but insufficient. A world is not formed merely because **A evokes B**. It is formed when the learner can represent how A relates to B, how that relation constrains C, how several constraints interact and what follows when the configuration changes.
+Associative learning makes one event, symbol or idea predictive of another. Ontological Worlds builds upward from that substrate.
+
+A world emerges when the learner can represent:
+
+- how A relates to B;
+- how that relation constrains C;
+- how several relations form a larger pattern;
+- how the pattern can be represented more densely;
+- what follows from the complete pattern;
+- how several patterns can form a new whole;
+- how that whole can be embodied and transferred.
 
 The functional progression is:
 
-**association → relational binding → relational integration → ontological abstraction → generative transfer**
+**association → relational binding → relational integration → ontological abstraction → relational compression → higher-order synthesis → generative transfer**
 
-Association is the substrate; relational structure is the target.
+Association supplies the material of thought. Relational integration supplies its architecture.
 
 ---
 
@@ -44,108 +54,235 @@ Association is the substrate; relational structure is the target.
 
 The **World Building Method** is the accessible name for the process previously called the **Da Vinci Method**. It was employed in the development of Imagi-World and becomes the generative mapping procedure of Ontological Worlds.
 
-It is not conventional fictional world-building. It is:
+It is:
 
-> A constrained generative mapping process in which the learner creates a new context whose concrete elements preserve an abstract relational structure and remain locally and globally compatible.
+> A constrained generative mapping process in which the learner creates a new context whose concrete elements preserve an abstract relational architecture and remain locally, globally and cross-domain compatible.
 
-A valid world must satisfy four standards:
+A developed world satisfies four standards:
 
 1. **Local validity:** each immediate relation fits its premise.
 2. **Neighbour validity:** nearby positions differ by the correct relational weighting.
-3. **Global coherence:** no example contradicts the wider topology.
-4. **Transfer validity:** the same structure can be reconstructed through unrelated content.
+3. **Global integration:** every local relation participates coherently in the complete topology.
+4. **Transfer validity:** the architecture can be reconstructed through unrelated content.
 
-The method integrates three complementary forms of juxtaposition:
+The method integrates three forms of juxtaposition:
 
 - **Analogical juxtaposition:** What structurally corresponds across different content?
 - **Analytical juxtaposition:** Which distinctions, boundaries and constraints organise the mapping?
-- **Transformational juxtaposition:** Which changes preserve the structure, and which move it elsewhere?
+- **Transformational juxtaposition:** Which changes preserve the structure, and which changes produce a new relational position?
 
-Generated contexts should remain sufficiently novel that the learner cannot solve the task by memorising a closed library of pairings. Novelty is therefore an anti-strategy design condition, not evidence by itself of cognitive transfer.
+Generated contexts should remain sufficiently novel that the learner must reconstruct the architecture rather than recall a closed library of pairings. Novelty therefore increases the demand for active relational modelling.
 
-For example, **spark → riot** can preserve a transformation from local ignition to cascading systemic combustion while moving from physics into sociology. The value lies not in the words themselves but in preservation of the causal-relational vector.
+For example, **spark → riot** can preserve the transformation from local ignition to cascading systemic combustion while moving from physics into sociology. The value lies in preserving the causal-relational vector while rebuilding its concrete embodiment.
 
 ---
 
 ## 4. The eight meta-operations
 
-The eight meta-operations are related, but they are not interchangeable. Their separation is useful only where each term identifies a different operation that can fail independently.
+The eight meta-operations form a continuous developmental architecture. Each operation enriches the relational field and prepares material for the operations that follow.
 
-### 1. Meta-mapping
+### 1. Meta-mapping — relational form
 
 **Construct, hold, align and compare two or more abstract relational mappings simultaneously.**
 
-Meta-mapping establishes which structures correspond and how their relations align. **Relational linking** is a branch of meta-mapping: it creates or identifies the cross-links connecting nodes, roles, operators or entire mappings.
+Meta-mapping gives the world its relational form. It identifies nodes, roles, correspondences, transformations and topological positions across one or more structures.
 
-### 2. Meta-compression
+Meta-mapping contains three closely related functions:
 
-**Encode a network of relations among mappings into a denser representation while preserving the structure required for inference, reconstruction or transfer.**
+- **construction:** forming a relational model;
+- **alignment:** determining which structures correspond;
+- **relational linking:** connecting nodes, roles, operators or complete mappings into a larger field.
 
-Meta-compression is *meta* rather than ordinary compression because it compresses relationships between mappings, not merely information within one representation. Its outputs may include equations, operator sequences, graphs, coordinates, invariants or concise mathematical descriptions.
+Relational linking is therefore an internal development of meta-mapping. It turns several mapped structures into a connected relational space on which compression, inference and synthesis can operate.
 
-A successful compression is not merely shorter. It preserves the inferentially important structure. A compact representation that destroys the relations needed to reconstruct or reason about the original field is information loss, not valid meta-compression.
+### 2. Meta-compression — representational density
 
-### 3. Meta-coherence
+**Encode relations among mappings into a denser representation while preserving the structure required for inference, reconstruction, synthesis and transfer.**
 
-**Test whether mappings, premises, operators, compressions and generated details remain mutually compatible.**
+Meta-compression gives the relational field density. It can transform an extended network of premises into:
 
-Meta-coherence evaluates both the expanded world and any compressed representation of it. A compression may be elegant yet invalid if it conceals a contradiction or collapses two distinctions that the topology requires.
+- an equation;
+- an operator sequence;
+- a graph;
+- a coordinate system;
+- a matrix;
+- an invariant;
+- a concise mathematical or symbolic model.
 
-### 4. Meta-logic
+Meta-compression is *meta* because it compresses relationships between mappings, not merely information inside one representation. It encompasses relational links within a denser structure, allowing a larger field to be manipulated as a coherent unit.
 
-**Infer consequences and relations that were not explicitly stated but follow from the integrated model.**
+A high-quality compression preserves the architecture’s generative power: the learner can still infer from it, reconstruct its important distinctions, combine it with another system and transfer it elsewhere.
 
-Meta-logic operates on the mapped field and can also operate on a valid compression of that field. Dense mathematics is useful precisely when the compression makes more consequences manipulable without erasing the relations from which they follow.
+Compression is also a productive phase of synthesis. It gives synthesis a tractable substrate by converting large relational fields into forms that can be compared and recombined. At the same time, compression contributes independently to mathematical reasoning, memory, abstraction, inference and transfer.
 
-### 5. Meta-distinction
+### 3. Meta-coherence — global unity
 
-**Resolve the precise qualitative difference between neighbouring or competing configurations.**
+**Integrate mappings, premises, categories, perspectives, compressed representations and generated details into one mutually compatible whole.**
 
-Meta-distinction prevents compression from becoming indiscriminate simplification and prevents synthesis from merging structures whose differences are functionally important.
+Meta-coherence gives the world unity. It connects local validity with global organisation so that every relation participates in the same ontology.
 
-### 6. Meta-synthesis
+Meta-coherence operates in both expanded and compressed form. It asks whether:
 
-**Integrate two or more abstract relational systems into a genuinely new higher-order whole whose organisation is not reducible to the mere sum or juxtaposition of its inputs.**
+- the premises support the mapping;
+- the compression preserves the relevant distinctions;
+- the categories and perspectives fit their roles;
+- neighbouring positions remain proportionally related;
+- the generated world expresses the complete architecture.
 
-Meta-synthesis is *meta* rather than ordinary synthesis because it generates a new whole from multiple abstract relational systems, not merely combines elements within a single system. The resulting whole may introduce emergent relations, new constraints, a new operator composition or a new level of organisation.
+Coherence is therefore the integrative field within which the other operations remain mutually intelligible.
 
-Meta-compression often supports meta-synthesis by making large relational fields tractable, but compression is only one possible component of synthesis. A thinker may compress without creating a new whole, and may synthesise through structural integration before expressing the result compactly.
+### 4. Meta-logic — relational consequence
 
-### 7. Meta-generation
+**Infer consequences and relations that are implicit in the integrated model.**
 
-**Create a concrete context, example or world satisfying several abstract constraints simultaneously.**
+Meta-logic gives the world consequence. Once a relational field has been mapped, compressed and integrated, meta-logic unfolds what follows from it.
 
-Meta-generation differs from meta-synthesis. Meta-synthesis forms or discovers the higher-order architecture; meta-generation instantiates an architecture as a specific world. A synthesis can remain abstract, while a generated world must supply compatible entities, events and relations.
+For example:
 
-### 8. Meta-transfer
+**A > P**  
+**P > C**
 
-**Rebuild the same relational architecture through another domain without preserving its surface content.**
+The integrated structure yields:
 
-Meta-transfer tests whether mapping, compression and synthesis captured the underlying structure rather than merely the original vocabulary.
+- A > C;
+- A is largest;
+- C is smallest;
+- P is intermediate.
 
-### Recurrent control cycle
+In Ontological Worlds, meta-logic also derives:
 
-The operations form a recurrent rather than rigidly linear cycle:
+- the likely location of a missing node;
+- the properties inherited from neighbouring positions;
+- the change required to move a scenario elsewhere;
+- the category or perspective implied by a transformation;
+- the unstated relations among all nodes in a triadic or larger configuration.
 
-**map and link → compress → test coherence → infer → distinguish → synthesise → generate → transfer → revise**
+A valid compression expands the practical reach of meta-logic by making more of the field simultaneously manipulable.
 
-Any stage may send the thinker backward. A failed distinction may require remapping; an invalid synthesis may expose an over-aggressive compression; a failed transfer may reveal that the supposed abstraction retained surface features rather than structure.
+### 5. Meta-distinction — relational resolution
 
-### Redundancy boundary
+**Identify the exact qualitative position of a configuration within a field of closely related possibilities.**
 
-The three most easily conflated terms have different objects:
+Meta-distinction gives the world resolution. It specifies not only that two structures differ, but how their total relational profiles differ.
 
-| Operation | Primary object | Primary result |
-|---|---|---|
-| **Meta-mapping** | Relations and correspondences among structures | An aligned relational field |
-| **Meta-compression** | The description of that relational field | A denser, structure-preserving representation |
-| **Meta-synthesis** | Multiple relational fields or systems | A new higher-order whole |
+This is essential when NNE, NE and ENE share most of their properties. The learner must determine:
 
-Relational linking remains a branch of meta-mapping because neither compression nor synthesis, by itself, specifies which relations correspond. Compression represents linked structure more densely; synthesis reorganises linked structures into a new whole.
+- which dimensions are present;
+- how strongly each is expressed;
+- which relation dominates;
+- why the position is closer to one neighbour than another;
+- what change would move it to a different position.
+
+Meta-distinction also refines compression and synthesis. It ensures that compressed mathematics retains meaningful gradients and that synthesis preserves differences that contribute to the identity of the new whole.
+
+### 6. Meta-synthesis — emergent wholeness
+
+**Integrate two or more abstract relational systems into a genuinely new higher-order whole.**
+
+Meta-synthesis gives the architecture emergence. It does more than align systems: it reorganises them into a structure containing new relations, constraints, operator compositions or levels of organisation.
+
+Meta-synthesis is *meta* because it generates a new whole from multiple abstract relational systems, rather than combining elements only within one system.
+
+Its inputs may include:
+
+- several mapped relational fields;
+- compressed equations or invariants;
+- different ontological-category structures;
+- spatial and temporal models;
+- mappings drawn from unrelated domains.
+
+Its product is a higher-order architecture in which the contributing systems acquire new meaning through their participation in the whole.
+
+Meta-compression and meta-synthesis therefore have a close creative relationship. Compression distils relational fields into manipulable structures; synthesis combines those structures into an emergent organisation. Synthesis can then produce a new compression describing the whole, creating a recursive movement between density and emergence.
+
+### 7. Meta-generation — concrete embodiment
+
+**Create a concrete context, example, model or world satisfying several abstract constraints simultaneously.**
+
+Meta-generation gives the architecture embodiment. It converts an abstract synthesis into a specific world containing compatible entities, events, environments and relations.
+
+Meta-synthesis forms the higher-order design. Meta-generation realises that design.
+
+For example, a synthesis may specify:
+
+- a particular category sequence;
+- an inner/outer perspective structure;
+- a directional topology;
+- a temporal transformation;
+- a compressed relational invariant.
+
+Meta-generation then creates one concrete scenario in which all of these are simultaneously true.
+
+This is the productive centre of the World Building Method: abstract structure becomes an inhabitable, inspectable and revisable world.
+
+### 8. Meta-transfer — relational reach
+
+**Reconstruct the same relational architecture through another domain while preserving its organising invariant.**
+
+Meta-transfer gives the architecture reach. It carries a structure from biology into technology, from psychology into politics, from geometry into social organisation, or across any other domain boundary.
+
+Transfer also enriches the original mapping. When the architecture is rebuilt elsewhere, its invariant becomes clearer, its compression can be improved and new syntheses become available.
+
+Meta-transfer therefore completes one cycle and begins another:
+
+- the transferred world becomes a new mapping;
+- the new mapping reveals further correspondences;
+- those correspondences can be compressed;
+- the compressed structures can enter another synthesis.
 
 ---
 
-## 5. Intellectual origin and formal attribution
+## 5. The eightfold generative cycle
+
+The operations form a recursive developmental cycle:
+
+**map and link → compress → integrate coherently → infer → distinguish → synthesise → generate → transfer → remap**
+
+The cycle can be summarised as follows:
+
+| Meta-operation | Contribution to the developing world | Product |
+|---|---|---|
+| **Meta-mapping** | Gives relations form and establishes links | An aligned relational field |
+| **Meta-compression** | Gives the field representational density | A compact, structure-preserving model |
+| **Meta-coherence** | Gives the field global unity | An integrated ontology |
+| **Meta-logic** | Gives the field consequence | Derived relations and implications |
+| **Meta-distinction** | Gives the field resolution | Precisely located qualitative states |
+| **Meta-synthesis** | Gives the field emergence | A new higher-order architecture |
+| **Meta-generation** | Gives the architecture embodiment | A concrete constraint-compatible world |
+| **Meta-transfer** | Gives the architecture reach | A reconstruction in another domain |
+
+**Mapping gives the world form. Compression gives it density. Coherence gives it unity. Logic gives it consequence. Distinction gives it resolution. Synthesis gives it emergence. Generation gives it embodiment. Transfer gives it reach.**
+
+### Formal relational model
+
+Let each source mapping be represented as:
+
+`Mᵢ = <Vᵢ, Eᵢ, Oᵢ, Pᵢ, Tᵢ>`
+
+where:
+
+- `Vᵢ` = nodes or entities;
+- `Eᵢ` = relational bindings;
+- `Oᵢ` = ontological operators;
+- `Pᵢ` = perspective and topology;
+- `Tᵢ` = temporal state.
+
+The developmental sequence can then be expressed as:
+
+`F = μ(M₁, M₂, ... Mₙ)` — meta-mapping constructs and links the relational field.  
+`C = κ(F)` — meta-compression produces a denser, structure-preserving representation.  
+`I = χ(C, F)` — meta-coherence integrates compressed and expanded structure.  
+`L = λ(I)` — meta-logic unfolds implicit consequences.  
+`R = δ(I, L)` — meta-distinction increases relational resolution.  
+`H = σ(R₁, R₂, ... Rₘ)` — meta-synthesis forms a higher-order architecture.  
+`W = γ(H, D)` — meta-generation embodies the architecture in domain `D`.  
+`W′ = τ(W, D′)` — meta-transfer reconstructs it in domain `D′`.
+
+The transferred world `W′` can then re-enter meta-mapping, making the architecture recursively generative.
+
+---
+
+## 6. Intellectual origin and formal attribution
 
 ### Brandon Woodson: originator of the category synthesis used here
 
@@ -153,13 +290,13 @@ The ontological categories used in **Ontological Worlds** should be attributed s
 
 In his 2 September 2014 essay, [“A Correspondence of Ontological Categories and the Jewish Script”](https://groups.google.com/g/brain-training/c/gh5xgRRwVtc), Woodson explained that he had compared several proposed sets of basic ontological ideas and found them either too general or incomplete, or too specific and superfluous. He then developed a nine-archetype scheme—repeated across archetypal, inner and outer forms—by studying Meru Foundation materials, cross-referencing other resources and refining the meanings into a system usable by a practical analyst.
 
-The following contributions must therefore remain distinct:
+The relevant contributions are:
 
 - The Hebrew alphabet and its traditional meanings are historically inherited materials.
-- Stan Tenen and the Meru Foundation developed a particular geometric, relational and whole-system interpretation of the 27-letter Hebrew matrix.
+- Stan Tenen and the Meru Foundation developed a geometric, relational and whole-system interpretation of the 27-letter Hebrew matrix.
 - Brandon Woodson produced the distinctive ontological-category synthesis, functional definitions, mirrored pairings and proposed cognitive-training use adopted and extended here.
 
-The category system is presented as **Woodson’s original analytic synthesis**, not as a claim that academic Hebrew linguistics or Jewish tradition conventionally classifies the alphabet in precisely this form.
+The category system is presented as **Woodson’s original analytic synthesis** rather than as a conventional academic classification of Hebrew or Jewish thought.
 
 ### Stan Tenen and the Meru Foundation: principal creative and structural inspiration
 
@@ -171,25 +308,23 @@ Tenen’s [“Matrix of Meaning”](https://www.meru.org/1Letters.html) arranges
 2. **Inner / Spiritual**
 3. **Outer / Physical**
 
-Meru’s presentation is relational rather than merely lexical. Letter meaning is treated as dependent on position within a larger matrix, and the letters are described as pointing directions within a higher-dimensional meaning-space. This supplied several decisive creative resources that Woodson transformed:
+Meru’s presentation is relational. Letter meaning is treated as dependent on position within a larger matrix, and the letters are described as pointing directions within a higher-dimensional meaning-space. This supplied several creative resources that Woodson transformed:
 
 - a three-level, 27-element architecture;
 - an observer-sensitive distinction between inner and outer viewpoints;
-- meaning defined through relations among symbols rather than isolated definitions;
+- meaning defined through relations among symbols;
 - mirrored, symmetrical and whole-system organisation;
 - the idea that a compact symbolic system can encode reusable transformations.
 
-Ontological Worlds inherits this lineage while changing the system’s operational purpose. Tenen supplied the geometric, symbolic and whole-system scaffold; Woodson converted that inspiration into a practical taxonomy of ontological operations; Ontological Worlds extends Woodson’s taxonomy into a domain-independent operator grammar for relational integration, generative world construction and cross-domain transfer.
+Ontological Worlds inherits this lineage while changing the operational purpose. Tenen supplied the geometric, symbolic and whole-system scaffold; Woodson converted that inspiration into a practical taxonomy of ontological operations; Ontological Worlds extends Woodson’s taxonomy into a domain-independent grammar for relational integration, compression, synthesis, generative world construction and cross-domain transfer.
 
 > **Stan Tenen / Meru Foundation — structural and creative inspiration → Brandon Woodson — original ontological-category synthesis → Ontological Worlds — contemporary relational-training extension.**
 
-This attribution preserves Woodson’s authorship while acknowledging the resource that most directly enabled the form of his synthesis.
-
 ---
 
-## 6. Ontological categories as an operator grammar
+## 7. Ontological categories as an operator grammar
 
-Building on Woodson’s synthesis—creatively and structurally inspired in substantial part by Tenen’s Meru Matrix of Meaning—the categories function here as **domain-independent relational operators**. They answer *what kind of transformation or relation is occurring*.
+Building on Woodson’s synthesis—creatively and structurally inspired in substantial part by Tenen’s Meru Matrix of Meaning—the categories function as **domain-independent relational operators**. They answer: *What kind of transformation or relation is occurring?*
 
 The nine archetypal ideas are each represented through **inner**, **outer** and **archetypal** perspectives, producing 27 usable operator forms.
 
@@ -267,78 +402,89 @@ A configuration satisfying its relevant conditions, limits or standard of fit.
 
 ### Progressive dependency
 
-The categories can be read as a cumulative architecture:
+The categories can be read as a developmental sequence:
 
 **All → Difference → Action → Division → Connection → Multiplication → Projection → Encompassment → Completion**
 
-Later operations tend to presuppose earlier ones. Completion evaluates a configuration in which distinctions, actions, divisions and relations are already active.
+The sequence begins with a common field, introduces distinction, activates transformation, articulates parts, connects them, expands the connected system, directs its activity, integrates it within a larger boundary and culminates in a completed configuration.
 
 ### Mirrored architecture
 
 - **All ↔ Completion:** prior unity and achieved integration.
 - **Difference ↔ Encompassment:** boundary creation and boundary containment.
 - **Action ↔ Projection:** local transformation and directed extension.
-- **Division ↔ Multiplication:** decomposition and constructive increase.
+- **Division ↔ Multiplication:** articulation and constructive increase.
 - **Connection:** the bridge joining analytic and synthetic movement.
-
-The categories also illuminate the new meta-operations without being identical to them. **Meta-compression** often uses Division to separate relevant from irrelevant structure, Connection to preserve relational dependencies and Completion to express the smallest sufficient representation. **Meta-synthesis** often draws on All, Connection, Multiplication and Encompassment to organise several mappings into a new whole. These are functional affinities, not fixed one-to-one equivalences.
 
 ---
 
-## 7. How the theoretical layers interlock
+## 8. How the categories and meta-operations interconnect
+
+The categories and meta-operations operate at complementary levels:
+
+- **Ontological categories** describe transformations occurring inside a world.
+- **Meta-operations** describe how the thinker constructs, develops and transforms the world as a relational model.
+
+This produces a dual architecture: the category grammar organises the world’s internal dynamics, while the meta-operations organise the cognition that builds and evolves that world.
+
+### Developmental resonances
+
+The following are functional resonances rather than fixed one-to-one assignments:
+
+| Meta-operation | Strong category resonances | Creative relationship |
+|---|---|---|
+| **Meta-mapping** | All, Difference, Connection | Establishes a common field, identifies correspondences and links structures. |
+| **Meta-compression** | Division, Connection, Completion | Selects structure, preserves dependency and expresses a sufficient compact form. |
+| **Meta-coherence** | All, Encompassment, Completion | Integrates parts within a stable whole. |
+| **Meta-logic** | Action, Projection, Connection | Unfolds causal, directional and transitive consequence. |
+| **Meta-distinction** | Difference, Division, Completion | Resolves boundaries, parts and exact qualitative fit. |
+| **Meta-synthesis** | All, Connection, Multiplication, Encompassment | Builds a new whole through connection, expansion and integration. |
+| **Meta-generation** | Action, Multiplication, Projection | Activates, unfolds and directs an abstract architecture into concrete form. |
+| **Meta-transfer** | Difference, Connection, Projection, All | Carries invariant structure across differing domains while preserving relational identity. |
+
+The relationship between **Connection**, meta-mapping and meta-synthesis is especially important:
+
+- meta-mapping establishes relational links;
+- Connection describes linking as an ontological operation inside the mapped world;
+- meta-synthesis uses connected relational systems to form a new higher-order whole.
+
+Likewise, meta-compression is illuminated by Division, Connection and Completion:
+
+- Division articulates the components relevant to the representation;
+- Connection preserves the relations among those components;
+- Completion expresses the smallest form sufficient to retain the field’s generative and inferential power.
+
+### The complete theoretical stack
 
 | Question | Layer |
 |---|---|
 | What concrete entities are involved? | **Domain / content** |
-| How are the entities connected? | **Relational bindings** |
-| What kind of relation or transformation occurs? | **Ontological category** |
+| How are the entities connected? | **Relational bindings and meta-mapping** |
+| What kind of transformation occurs? | **Ontological category** |
 | From whose or what frame is it represented? | **Inner / outer / archetypal perspective** |
 | Where does it sit relative to other terms? | **Directional topology** |
-| How can the relational field be represented more densely without losing what matters? | **Meta-compression** |
-| Why is that placement warranted? | **Relational premises and meta-logic** |
-| Does the complete model remain valid? | **Meta-coherence** |
-| How are several structures reorganised into a new higher-order whole? | **Meta-synthesis** |
-| How is a fitting concrete context invented? | **World Building Method and meta-generation** |
-| How is it rebuilt elsewhere? | **Meta-transfer** |
-| How is it retained and revised through time? | **Temporal recurrence** |
-
-The categories provide the **operator grammar**; the eight meta-operations provide the **executive cycle** that constructs, compacts, evaluates and transforms expressions written in that grammar.
-
-| Meta-operation | Category-level function |
-|---|---|
-| Meta-mapping | Aligns category, perspective, direction and domain across several models and establishes relational links. |
-| Meta-compression | Encodes category–perspective–topology relations into a denser structure while preserving inferential distinctions. |
-| Meta-coherence | Tests whether selected operators, compressions and perspectives can coexist in the complete world. |
-| Meta-logic | Derives which category, perspective or relation follows from supplied transformations. |
-| Meta-distinction | Separates near-neighbours such as Difference from Division, or Inner Action from Outer Action. |
-| Meta-synthesis | Integrates several category-governed mappings into a new higher-order organisation. |
-| Meta-generation | Constructs a concrete context satisfying every category–perspective–topology constraint. |
-| Meta-transfer | Preserves the operator equation while rebuilding it through unrelated subject matter. |
-
-### Compression, synthesis and the World Building Method
-
-The three operations occupy different levels:
-
-1. **Meta-mapping** establishes the relational field.
-2. **Meta-compression** expresses that field in a denser, manipulable form.
-3. **Meta-synthesis** creates a new architecture from several fields or compressions.
-4. **Meta-generation** supplies a concrete world instantiating that architecture.
-
-For example, several category-governed mappings may be compressed into a compact operator equation. Meta-synthesis can then combine that equation with a second relational system to create a new whole. The World Building Method generates a scenario in which the resulting whole is concretely realised and globally coherent.
+| How is the field distilled into a manipulable form? | **Meta-compression** |
+| What follows from the integrated field? | **Meta-logic** |
+| What is the exact qualitative position? | **Meta-distinction** |
+| How does the field become one whole? | **Meta-coherence** |
+| How do several systems become a new architecture? | **Meta-synthesis** |
+| How is that architecture embodied? | **World Building Method and meta-generation** |
+| How does it become domain-general? | **Meta-transfer** |
+| How does it develop through time? | **Temporal recurrence** |
 
 ---
 
-## 8. Premise-derived topology
+## 9. Premise-derived topology
 
-Ontological Worlds does not begin with an object at the centre of a completed compass. It begins with local premises such as:
+Ontological Worlds begins with local premises such as:
 
 - **T is north of J.**
 - **L is east of J.**
 - **H lies between T and L.**
 
-The learner must infer the global arrangement from local constraints. A displayed centre is only a temporary reference node. The compass is the visible result of relational integration, not its starting point.
+The learner infers the global arrangement from local constraints. A displayed centre is a temporary reference node. The compass is the visible result of relational integration.
 
-With four directions, a learner may rely on broad contrasts. A sixteen-direction compass adds **representational resolution**: NNE, NE and ENE may share most properties while differing in relational weighting. Additional compass points refine the current relational plane; they do not automatically create independent dimensions.
+With four directions, a learner may rely on broad contrasts. A sixteen-direction compass adds **representational resolution**: NNE, NE and ENE may share most properties while differing in relational weighting. Additional compass points refine the current relational plane; independent dimensions arise through additional axes, premises or operator constraints.
 
 ### Demonstrative sixteen-direction world
 
@@ -361,45 +507,54 @@ The following animal-domain examples are **demonstrative only**:
 - **NW — A wildlife sanctuary:** protection, welfare and greater autonomy.
 - **NNW — A de-extinction sanctuary:** reconstruction within a self-sustaining ecosystem.
 
-Each intermediate position must inherit relevant structure from its neighbours while remaining distinguishable from them. A locally plausible answer can therefore be globally wrong.
+Each intermediate position inherits structure from its neighbours while developing a distinct relational weighting.
 
-Meta-compression can represent the inferred topology as a coordinate system, graph, matrix or compact set of relational equations. The compression is valid only if it preserves the distinctions needed to recover why NNE differs from NE and ENE. Meta-synthesis can then combine this topology with a separate category structure, temporal process or domain model to produce a new higher-order world architecture.
+The eight operations develop this topology as follows:
+
+1. Meta-mapping constructs the relations among the positions.
+2. Meta-compression expresses the topology as coordinates, a graph, a matrix or relational equations.
+3. Meta-coherence integrates every position into the same ontology.
+4. Meta-logic derives unstated relationships and missing positions.
+5. Meta-distinction resolves the gradients among neighbouring points.
+6. Meta-synthesis combines the topology with categories, temporal models or other relational systems.
+7. Meta-generation creates a concrete world instantiating the combined architecture.
+8. Meta-transfer rebuilds the topology through another domain.
 
 ---
 
-## 9. Triadic integration and temporal recurrence
+## 10. Triadic integration and temporal recurrence
 
 A canonical task can combine category, perspective, symbol and topology:
 
 > **Inner Action D; east to Outer Multiplication J; south to Projection M.**
 
-The letters are temporary nodes. Categories determine the required operations. Perspectives determine orientation. Directional statements determine relative topology. The learner must generate one context in which all constraints are simultaneously true.
+The letters are temporary nodes. Categories determine the operations. Perspectives determine orientation. Directional statements determine relative topology. The learner creates one context in which all constraints are simultaneously true.
 
-This requires:
+The process includes:
 
 - role–filler binding;
 - simultaneous maintenance of several relations;
 - perspective control;
-- global constraint satisfaction;
-- inference of unstated relations among all nodes;
-- compression of the integrated structure into a manipulable relational model;
-- synthesis of the constraints into a unified higher-order organisation;
-- generation of a coherent world rather than selection of a memorised answer.
+- relational linking among all nodes;
+- compression into a manipulable model;
+- inference of unstated relations;
+- synthesis of the constraints into a higher-order organisation;
+- generation of a coherent world.
 
-The Imagi-World lineage used recurrence so that each premise could not be solved as an isolated event. In an n-back implementation, earlier category–relation bindings must be retained and compared with later ones. The world becomes **historical**: current meaning depends on earlier mappings, and new information may require revision of the retained model.
+Temporal recurrence adds developmental depth. In an n-back implementation, earlier category–relation bindings are retained and compared with later ones. The world becomes **historical**: current meaning depends on earlier mappings, and new information transforms the retained model.
 
 - **Within-stream recombination** integrates relations in the current configuration.
 - **Cross-trial recombination** compares or transforms structures retained from earlier configurations.
+- **Temporal compression** distils several trials into an invariant, sequence or equation.
+- **Temporal synthesis** combines retained structures into a new model that no single trial explicitly contained.
 
-Meta-compression may reduce several retained trials into a compact invariant or equation. Meta-synthesis may combine those retained structures into a new model that was not explicit in any single trial.
-
-Timing and load require calibration. Claims that extreme presentation speeds or loads produce broad cognitive benefits remain experimental.
+Timing and load remain design variables requiring calibration and controlled testing.
 
 ---
 
-## 10. Cross-domain transformation
+## 11. Cross-domain transformation
 
-The animal examples above are for **demonstrative purposes only**. The intended exercise is cross-domain. A valid transfer preserves the relational equation while replacing the surface material.
+The animal examples above are for **demonstrative purposes only**. The intended exercise is cross-domain. A developed transfer preserves the relational invariant while rebuilding its surface material.
 
 ### NNE: unprecedented creation with deliberate intervention
 
@@ -429,63 +584,74 @@ The animal examples above are for **demonstrative purposes only**. The intended 
 - Psychology: reintegrating compartmentalised memories and emotional systems.
 - Technology: connecting independent projects into an interoperable ecosystem.
 
-A learner who remembers that “Jurassic Park was north” has learned a label. A learner who understands the premises that made it north can reconstruct an equivalent position through law, technology, medicine, politics, psychology or another domain.
+A learner who understands the relational premises that made Jurassic Park north can reconstruct an equivalent position through law, technology, medicine, politics, psychology or another domain.
 
-Cross-domain work tests all three disputed boundaries. The learner must map the correspondences, compress the preserved relational invariant and synthesise the transferred structure with the constraints of the new domain.
+Cross-domain work activates the complete cycle:
+
+- mapping identifies the invariant correspondences;
+- compression expresses that invariant densely;
+- coherence integrates it with the new domain;
+- logic unfolds its domain-specific consequences;
+- distinction locates its exact new position;
+- synthesis combines it with the receiving domain’s architecture;
+- generation creates the transferred world;
+- transfer returns a richer structure to the next cycle.
 
 ---
 
-## 11. What the complete architecture trains
+## 12. What the complete architecture trains
 
 Ontological Worlds is designed to exercise the ability to:
 
 - construct global models from local premises;
 - bind roles, entities and transformations;
-- identify latent dimensions and operator structure;
+- identify latent dimensions and ontological operators;
 - maintain and link multiple mappings simultaneously;
-- compress relational fields into denser equations, graphs or operator structures without erasing essential distinctions;
-- infer unstated consequences;
+- compress relational fields into denser mathematical or symbolic structures;
+- preserve inferential power across changes in representation;
+- derive unstated consequences;
 - distinguish closely neighbouring relational states;
-- detect local and global contradictions;
-- synthesise multiple abstract systems into new higher-order wholes;
-- generate exact relational continuations and concrete worlds;
+- integrate local and global structure;
+- synthesise several abstract systems into emergent higher-order wholes;
+- embody abstract architecture through constrained generation;
 - revise a model when one relation changes;
-- preserve abstract structure across unrelated domains.
+- preserve and develop structure across unrelated domains.
 
 The compass is only the interface.
 
 - **Meta-mapping constructs and links the field.**
-- **Meta-compression expresses the field more densely while preserving its inferential structure.**
-- **Meta-coherence ensures that the field and its compression hold together.**
-- **Meta-logic reveals what the field implies.**
-- **Meta-distinction resolves its precise structure.**
-- **Meta-synthesis creates new wholes from several relational systems.**
-- **Meta-generation instantiates those structures through constrained invention.**
-- **Meta-transfer reconstructs them in another world.**
+- **Meta-compression distils the field into generative density.**
+- **Meta-coherence integrates the field as a unified whole.**
+- **Meta-logic unfolds the field’s consequences.**
+- **Meta-distinction gives the field precise resolution.**
+- **Meta-synthesis creates higher-order organisation.**
+- **Meta-generation embodies that organisation as a world.**
+- **Meta-transfer carries the architecture into further worlds.**
 
-The ontological categories supply the operator grammar; the World Building Method supplies generative execution; directional topology supplies relational resolution; meta-compression supplies representational density; meta-synthesis supplies higher-order integration; and temporal recurrence keeps the model active and revisable through time.
+The ontological categories supply the operator grammar; directional topology supplies relational position; meta-compression supplies representational density; meta-synthesis supplies emergent integration; the World Building Method supplies concrete embodiment; and temporal recurrence keeps the architecture active, cumulative and revisable through time.
 
 ---
 
-## 12. Research status and testable claims
+## 13. Research status and testable claims
 
-Ontological Worlds is a conceptual and experimental framework. Internal theoretical coherence is not proof of increased general intelligence or far transfer.
-
-A serious evaluation should distinguish trained performance from transfer and measure:
+Ontological Worlds is a conceptual and experimental framework. Its architecture supports a set of separable, testable performance dimensions:
 
 1. **Novel relational inference:** accuracy on unseen structures.
-2. **Near-neighbour discrimination:** accuracy among closely weighted alternatives.
-3. **Global-coherence error:** locally plausible answers contradicting the complete model.
-4. **Compression fidelity:** whether a denser representation preserves the relations and distinctions required for inference and reconstruction.
-5. **Synthesis validity:** whether a proposed higher-order whole is genuinely new, internally coherent and not a disguised juxtaposition of its inputs.
-6. **Generative validity:** whether created contexts satisfy all supplied constraints.
-7. **Cross-domain transfer:** structure preserved when vocabulary and domain change.
-8. **Relational complexity:** performance as simultaneously integrated relations increase.
-9. **Temporal revision:** updating a retained model when later premises alter earlier implications.
+2. **Mapping quality:** accuracy of alignment and relational linking.
+3. **Compression fidelity:** preservation of relations, distinctions and reconstructability in denser representations.
+4. **Global integration:** consistency among local relations and the complete model.
+5. **Near-neighbour discrimination:** accuracy among closely weighted alternatives.
+6. **Synthesis validity:** emergence, coherence and added organisational value in a proposed higher-order whole.
+7. **Generative validity:** satisfaction of all supplied constraints in a concrete world.
+8. **Cross-domain transfer:** preservation and development of architecture when vocabulary and domain change.
+9. **Relational complexity:** performance as simultaneously integrated relations increase.
+10. **Temporal revision:** updating a retained model when later premises alter earlier implications.
+
+These measures distinguish the conceptual architecture from empirical claims about general intelligence or far transfer, which require controlled evaluation.
 
 ---
 
-## 13. Source lineage and scope
+## 14. Source lineage and scope
 
 - [Experimental research enquiry: relational reasoning, associative learning, ontological abstraction and cross-domain transformation](https://groups.google.com/g/brain-training/c/fN89KBULr5M)
 - [Brandon Woodson’s ontological-category synthesis](https://groups.google.com/g/brain-training/c/gh5xgRRwVtc)
@@ -493,4 +659,4 @@ A serious evaluation should distinguish trained performance from transfer and me
 - [Meru Foundation background](https://meru.org/AboutMeru.html)
 - [Imagi-World and Da Vinci Method development thread](https://groups.google.com/g/brain-training/c/QjO9e7N2n8s)
 
-The taxonomy is used here as a functional reasoning vocabulary. Woodson’s synthesis is not represented as settled Hebrew linguistics or Jewish theology. Tenen’s Meru research is credited as the principal creative and structural inspiration rather than conflated with Woodson’s later category system. Claims of cognitive improvement remain hypotheses requiring controlled empirical testing.
+The taxonomy is used as a functional reasoning vocabulary. Woodson’s synthesis is attributed as the specific category architecture; Tenen’s Meru research is credited as its principal creative and structural inspiration; Ontological Worlds is the later relational-training extension. Claims of cognitive improvement remain hypotheses for controlled empirical testing.
