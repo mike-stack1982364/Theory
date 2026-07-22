@@ -1,55 +1,54 @@
 # ~ Ontological Worlds ~
 
-A theory and training architecture for **relational integration**: constructing, compressing, testing, navigating, synthesising, generating and transferring abstract relational worlds.
+A theory and training architecture for **relational integration**: constructing, compressing, interpreting, synthesising, generating and transferring abstract relational worlds.
 
 ## Repository contents
 
 - [`index.html`](index.html) — polished standalone theory site.
-- [`THEORY.md`](THEORY.md) — complete readable theoretical reference.
+- [`THEORY.md`](THEORY.md) — complete theoretical reference.
 
 ## The framework in one sentence
 
-Ontological Worlds asks the learner to infer a topology from relational premises, apply domain-independent ontological operators, compress the resulting relational field without losing its inferential structure, synthesise higher-order wholes, generate a context in which all constraints remain compatible and preserve that architecture across unrelated domains.
+Ontological Worlds asks the learner to infer a topology from relational premises, organise it through domain-independent ontological operators, distil it into increasingly powerful representations, synthesise higher-order structures, embody those structures as coherent worlds and reconstruct them across unrelated domains.
 
-## Core architecture
+## The integrated architecture
 
-| Layer | Function |
+| Layer | Contribution |
 |---|---|
-| Association | Supplies concrete or imagined content. |
-| Relational binding | Connects symbols, entities and events through meaningful relations. |
-| Relational integration | Combines several bindings into one coherent model. |
-| Ontological categories | Supply a reusable grammar of relational operations. |
-| Directional topology | Represents relative location and fine-grained relational weighting. |
-| Eight meta-operations | Supervise mapping, compression, coherence, inference, discrimination, synthesis, generation and transfer. |
-| World Building Method | Generates new, constraint-compatible contexts from abstract structure. |
-| Temporal recurrence | Requires earlier bindings to be retained, updated and recombined over time. |
+| Association | Supplies concrete and imagined material. |
+| Relational binding | Connects symbols, entities and events through meaningful roles. |
+| Ontological categories | Supply a reusable grammar of transformation. |
+| Directional topology | Gives relations position, orientation and fine-grained weighting. |
+| Eight meta-operations | Develop the relational field from mapping into compression, coherence, inference, distinction, synthesis, generation and transfer. |
+| World Building Method | Embodies abstract structure as a concrete, constraint-compatible world. |
+| Temporal recurrence | Allows the world to accumulate history, revision and cross-trial integration. |
 
-## The eight meta-operations
+## The eightfold generative cycle
 
-1. **Meta-mapping** constructs, aligns and links abstract relational mappings.
-2. **Meta-compression** encodes relations among mappings into a denser representation while preserving the structure required for inference and reconstruction.
-3. **Meta-coherence** tests whether premises, mappings, compressions and generated details remain compatible.
-4. **Meta-logic** derives consequences not explicitly stated.
-5. **Meta-distinction** resolves precise differences between neighbouring structures.
-6. **Meta-synthesis** forms a new higher-order whole from multiple abstract relational systems.
-7. **Meta-generation** instantiates an abstract architecture as a concrete, constraint-compatible world.
-8. **Meta-transfer** reconstructs the architecture through unrelated subject matter.
+1. **Meta-mapping** constructs and links relational fields.
+2. **Meta-compression** distils those fields into denser equations, graphs, invariants or operator structures.
+3. **Meta-coherence** integrates every local relation into a stable global whole.
+4. **Meta-logic** unfolds the consequences implicit in that whole.
+5. **Meta-distinction** increases resolution by locating the exact qualitative position of each configuration.
+6. **Meta-synthesis** combines relational systems into a genuinely new higher-order organisation.
+7. **Meta-generation** embodies that organisation as a concrete world, model or scenario.
+8. **Meta-transfer** carries the architecture into new domains, where it can be remapped and developed again.
 
-### Why compression and synthesis are not redundant with mapping
+**Mapping gives the world form. Compression gives it density. Coherence gives it unity. Logic gives it consequence. Distinction gives it resolution. Synthesis gives it emergence. Generation gives it embodiment. Transfer gives it reach.**
 
-**Relational linking is a branch of meta-mapping:** it establishes which relations correspond. **Meta-compression** represents that linked field more densely. **Meta-synthesis** reorganises multiple linked fields into a genuinely new whole. Compression may support synthesis, but neither operation replaces the mapping that first establishes the relational correspondences.
+Relational linking remains a central function of meta-mapping. Meta-compression enriches mapping by making large relational fields tractable, while meta-synthesis extends mapping by reorganising several fields into a new whole. The operations therefore form a continuous developmental system rather than a list of isolated faculties.
 
-## Intellectual attribution
+## Ontological categories and intellectual lineage
 
-The ontological-category system used in this repository is attributed to **Brandon Woodson**, whose 2014 synthesis organised nine archetypal ideas across archetypal, inner and outer forms for practical analysis and cognitive training. Woodson explicitly developed the system through comparison and reinterpretation of several resources, principally the **Meru Research Foundation** materials associated with **Stan Tenen**.
+The ontological-category system used in this repository is attributed to **Brandon Woodson**, whose 2014 synthesis organised nine archetypal ideas across archetypal, inner and outer forms for practical analysis and cognitive training. Woodson developed the system through comparison and reinterpretation of several resources, principally the **Meru Research Foundation** materials associated with **Stan Tenen**.
 
-Tenen’s contribution is the major creative and structural precursor: Meru’s 27-letter “Matrix of Meaning,” organised into Archetypal, Inner/Spiritual and Outer/Physical levels, supplied the relational, observer-sensitive and whole-system architecture that Woodson transformed into his own ontological taxonomy.
+Tenen’s 27-letter “Matrix of Meaning,” organised into Archetypal, Inner/Spiritual and Outer/Physical levels, supplied a major relational, observer-sensitive and whole-system inspiration. Woodson transformed that structural resource into his distinctive ontological taxonomy. Ontological Worlds then extends Woodson’s taxonomy into an operational architecture for relational integration, generative world construction and cross-domain transfer.
 
-**Attribution chain:** Stan Tenen / Meru Foundation (structural inspiration) → Brandon Woodson (original category synthesis) → Ontological Worlds (relational-training extension).
+**Lineage:** Stan Tenen / Meru Foundation (structural inspiration) → Brandon Woodson (original category synthesis) → Ontological Worlds (relational-training extension).
 
 ## Research status
 
-This repository presents a **conceptual and experimental training framework**, not established proof of increased IQ or far transfer. Its claims should be evaluated through controlled measures of novel relational inference, near-neighbour discrimination, global-coherence error, compression fidelity, synthesis validity, generative validity and transfer to untrained domains.
+This repository presents a **conceptual and experimental training framework**, not established proof of increased IQ or far transfer. Its claims can be evaluated through measures of novel relational inference, representational compression, global integration, near-neighbour discrimination, higher-order synthesis, generative validity, temporal revision and transfer to untrained domains.
 
 ## Source lineage
 
@@ -58,4 +57,4 @@ This repository presents a **conceptual and experimental training framework**, n
 - [Stan Tenen’s Meru Matrix of Meaning](https://www.meru.org/1Letters.html)
 - [Imagi-World and Da Vinci Method lineage](https://groups.google.com/g/brain-training/c/QjO9e7N2n8s)
 
-The category framework is used here as an operational reasoning vocabulary. Woodson’s synthesis is not presented as settled Hebrew linguistics, Jewish theology or experimentally validated cognitive science; Tenen’s Meru work is identified as its principal creative and structural inspiration rather than conflated with Woodson’s later taxonomy.
+The category framework is used as an operational reasoning vocabulary. Woodson’s synthesis is not presented as settled Hebrew linguistics or Jewish theology, and Tenen’s Meru research is credited as its principal structural inspiration rather than conflated with Woodson’s later category system.
