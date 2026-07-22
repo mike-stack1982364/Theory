@@ -2,40 +2,41 @@
 
 ## 1. Thesis
 
-**Ontological Worlds** is a generative relational-reasoning architecture. It does not treat intelligence as the accumulation of isolated associations. It trains the construction of a world in which several relations must be held together, compared, inferred, distinguished, generated and transferred without breaking the model that contains them.
-
-Its central object is **relational integration**:
+**Ontological Worlds** is a generative relational-reasoning architecture. Its central object is **relational integration**:
 
 > The combination of multiple relations into a unified, internally compatible model whose unstated implications, precise qualitative structure and possible transformations can be inferred.
 
-The system combines six elements that should remain conceptually distinct:
+The system does not reduce intelligence to isolated associations. It asks the learner to construct a world in which several relations must be maintained, compared, inferred, distinguished, generated, revised and transferred without breaking the model that contains them.
 
-1. **Associations** provide content.
-2. **Relational bindings** connect that content.
-3. **Ontological categories** specify the kind of operation occurring.
-4. **Directional topology** specifies relative position within the current mapping.
-5. **Meta-operations** supervise construction and evaluation.
-6. **The World Building Method** generates and transfers a coherent context.
+Its principal layers are:
 
-Temporal recurrence—such as an n-back sequence—adds a further demand: earlier bindings must be retained, updated and recombined as the world changes.
+1. **Association** supplies concrete or imagined content.
+2. **Relational binding** connects symbols, entities and events through meaningful roles.
+3. **Relational integration** combines several bindings into one coherent model.
+4. **Ontological categories** specify the type of relation or transformation occurring.
+5. **Perspective** specifies whether that operation is represented inwardly, outwardly or archetypally.
+6. **Directional topology** specifies relative position within the current mapping.
+7. **Meta-operations** supervise construction, inference and evaluation.
+8. **The World Building Method** generates and transfers a constraint-compatible context.
+9. **Temporal recurrence** requires earlier bindings to be retained, updated and recombined over time.
+
+A compact representation is:
+
+`World instance = <nodes, bindings, category, perspective, topology, domain, temporal state>`
+
+None of these coordinates should be collapsed into another. A category has no permanent direction; a direction has no permanent semantic meaning; a domain supplies content but does not determine structure.
 
 ---
 
-## 2. From associative learning to relational integration
+## 2. From association to relational integration
 
-Associative learning makes one event, symbol or idea predictive of another. This is necessary, but insufficient, for Ontological Worlds. A world is not formed merely because **A evokes B**. It is formed when the learner can represent how A relates to B, how that relation constrains C, how several such constraints interact, and what follows when the configuration is changed.
+Associative learning makes one event, symbol or idea predictive of another. This is necessary but insufficient. A world is not formed merely because **A evokes B**. It is formed when the learner can represent how A relates to B, how that relation constrains C, how several constraints interact and what follows when the configuration changes.
 
 The functional progression is:
 
 **association → relational binding → relational integration → ontological abstraction → generative transfer**
 
-- **Association** supplies candidate nodes and semantic material.
-- **Relational binding** attaches a role or relation to those nodes.
-- **Relational integration** combines several bindings into one model.
-- **Ontological abstraction** compresses recurring transformations into reusable operators.
-- **Generative transfer** reconstructs the same operator structure in a new domain.
-
-This explains why Ontological Worlds can contain associative learning without reducing to it. Association is the substrate; relational structure is the target.
+Association is the substrate; relational structure is the target.
 
 ---
 
@@ -54,21 +55,15 @@ A valid world must satisfy four standards:
 3. **Global coherence:** no example contradicts the wider topology.
 4. **Transfer validity:** the same structure can be reconstructed through unrelated content.
 
-### Three forms of juxtaposition
-
-The method integrates three complementary operations:
+The method integrates three complementary forms of juxtaposition:
 
 - **Analogical juxtaposition:** What structurally corresponds across different content?
 - **Analytical juxtaposition:** Which distinctions, boundaries and constraints organise the mapping?
-- **Transformational juxtaposition:** Which changes preserve the structure, and which changes move it elsewhere?
+- **Transformational juxtaposition:** Which changes preserve the structure, and which move it elsewhere?
 
-### Novelty and strategy-silencing
+Generated contexts should remain sufficiently novel that the learner cannot solve the task by memorising a closed library of pairings. Novelty is therefore an anti-strategy design condition, not evidence by itself of cognitive transfer.
 
-Generated examples should remain sufficiently novel that the learner cannot solve the task by memorising a closed library of pairings. Novelty is therefore used as a design constraint against rote strategy. This is a theoretical design objective, not by itself evidence of cognitive transfer.
-
-### Cross-domain vector example
-
-A mapping such as **spark → riot** can preserve the abstract transformation from local ignition to cascading systemic combustion while moving from physics into sociology. The value lies not in the words themselves, but in preservation of the causal-relational vector.
+For example, **spark → riot** can preserve a transformation from local ignition to cascading systemic combustion while moving from physics into sociology. The value lies not in the words themselves but in preservation of the causal-relational vector.
 
 ---
 
@@ -78,8 +73,8 @@ A mapping such as **spark → riot** can preserve the abstract transformation fr
 - **Meta-coherence:** Test whether mappings, premises, operators and generated details remain mutually compatible.
 - **Meta-logic:** Infer consequences and relations that were not explicitly stated but follow from the integrated model.
 - **Meta-distinction:** Resolve the precise qualitative difference between neighbouring or competing configurations.
-- **Meta-generation:** Create a new context that satisfies several abstract constraints simultaneously.
-- **Meta-transfer:** Rebuild the same relational architecture through a different domain without preserving surface content.
+- **Meta-generation:** Create a new context satisfying several abstract constraints simultaneously.
+- **Meta-transfer:** Rebuild the same relational architecture through another domain without preserving surface content.
 
 These operations form a recurrent control cycle:
 
@@ -89,11 +84,53 @@ The first four are the bedrock of relational integration. Meta-generation and me
 
 ---
 
-## 5. Ontological categories as an operator grammar
+## 5. Intellectual origin and formal attribution
 
-The categories are not permanent compass meanings and are not a second set of directions. They are **domain-independent relational operators**. They answer *what kind of transformation or relation is occurring*.
+### Brandon Woodson: originator of the category synthesis used here
 
-The system contains nine archetypal ideas, each expressed through an **inner**, **outer** and **archetypal** perspective. This produces 27 usable operator forms.
+The ontological categories used in **Ontological Worlds** should be attributed specifically to **Brandon Woodson** as the originator of the distinctive practical synthesis on which this framework relies.
+
+In his 2 September 2014 essay, [“A Correspondence of Ontological Categories and the Jewish Script”](https://groups.google.com/g/brain-training/c/gh5xgRRwVtc), Woodson explained that he had compared several proposed sets of basic ontological ideas and found them either too general or incomplete, or too specific and superfluous. He then developed a nine-archetype scheme—repeated across archetypal, inner and outer forms—by studying Meru Foundation materials, cross-referencing other resources and refining the meanings into a system usable by a practical analyst.
+
+The following contributions must therefore remain distinct:
+
+- The Hebrew alphabet and its traditional meanings are historically inherited materials.
+- Stan Tenen and the Meru Foundation developed a particular geometric, relational and whole-system interpretation of the 27-letter Hebrew matrix.
+- Brandon Woodson produced the distinctive ontological-category synthesis, functional definitions, mirrored pairings and proposed cognitive-training use adopted and extended here.
+
+The category system is presented as **Woodson’s original analytic synthesis**, not as a claim that academic Hebrew linguistics or Jewish tradition conventionally classifies the alphabet in precisely this form.
+
+### Stan Tenen and the Meru Foundation: principal creative and structural inspiration
+
+Woodson explicitly identified the **Meru Research Foundation** as a principal resource used in constructing his synthesis. Meru was founded in 1983 to support research led by **Stan Tenen** into the Hebrew alphabet, the letter sequence of Genesis, geometric metaphor and self-organising whole systems.
+
+Tenen’s [“Matrix of Meaning”](https://www.meru.org/1Letters.html) arranges the 27 Hebrew letter forms into three sets of nine:
+
+1. **Archetypal**
+2. **Inner / Spiritual**
+3. **Outer / Physical**
+
+Meru’s presentation is relational rather than merely lexical. Letter meaning is treated as dependent on position within a larger matrix, and the letters are described as pointing directions within a higher-dimensional meaning-space. This supplied several decisive creative resources that Woodson transformed:
+
+- a three-level, 27-element architecture;
+- an observer-sensitive distinction between inner and outer viewpoints;
+- meaning defined through relations among symbols rather than isolated definitions;
+- mirrored, symmetrical and whole-system organisation;
+- the idea that a compact symbolic system can encode reusable transformations.
+
+Ontological Worlds inherits this lineage while changing the system’s operational purpose. Tenen supplied the geometric, symbolic and whole-system scaffold; Woodson converted that inspiration into a practical taxonomy of ontological operations; Ontological Worlds extends Woodson’s taxonomy into a domain-independent operator grammar for relational integration, generative world construction and cross-domain transfer.
+
+> **Stan Tenen / Meru Foundation — structural and creative inspiration → Brandon Woodson — original ontological-category synthesis → Ontological Worlds — contemporary relational-training extension.**
+
+This attribution preserves Woodson’s authorship while acknowledging the resource that most directly enabled the form of his synthesis.
+
+---
+
+## 6. Ontological categories as an operator grammar
+
+Building on Woodson’s synthesis—creatively and structurally inspired in substantial part by Tenen’s Meru Matrix of Meaning—the categories function here as **domain-independent relational operators**. They answer *what kind of transformation or relation is occurring*.
+
+The nine archetypal ideas are each represented through **inner**, **outer** and **archetypal** perspectives, producing 27 usable operator forms.
 
 ### 1. All
 
@@ -109,7 +146,7 @@ A boundary or contrast emerging within a common field.
 
 - **Inner:** What belongs inside the active reference frame.
 - **Outer:** What lies outside or is excluded from it.
-- **Archetypal:** The distinction that jointly constitutes inside and outside.
+- **Archetypal:** The distinction jointly constituting inside and outside.
 
 ### 3. Action
 
@@ -121,7 +158,7 @@ Change produced through agency or causal transformation.
 
 ### 4. Division
 
-Separation that makes parts or contrasts independently tractable.
+Separation making parts or contrasts independently tractable.
 
 - **Inner:** Self-removal, subtraction or isolation.
 - **Outer:** Subdivision, marking or pluralisation of an object.
@@ -131,9 +168,9 @@ Separation that makes parts or contrasts independently tractable.
 
 The bridge, medium or nexus through which separated terms participate in one system.
 
-- **Inner:** The hub, interface or medium that performs the linking.
+- **Inner:** The hub, interface or medium performing the linking.
 - **Outer:** The members or termini joined through that medium.
-- **Archetypal:** The relation that makes hub and connected members one network.
+- **Archetypal:** The relation making hub and connected members one network.
 
 ### 6. Multiplication / Unfoldment
 
@@ -173,11 +210,9 @@ The categories can be read as a cumulative architecture:
 
 **All → Difference → Action → Division → Connection → Multiplication → Projection → Encompassment → Completion**
 
-Later operations tend to presuppose earlier ones. Completion, for example, evaluates a configuration in which distinctions, actions, divisions and relations are already active.
+Later operations tend to presuppose earlier ones. Completion evaluates a configuration in which distinctions, actions, divisions and relations are already active.
 
 ### Mirrored architecture
-
-The taxonomy also supports a reflective structure:
 
 - **All ↔ Completion:** prior unity and achieved integration.
 - **Difference ↔ Encompassment:** boundary creation and boundary containment.
@@ -185,42 +220,37 @@ The taxonomy also supports a reflective structure:
 - **Division ↔ Multiplication:** decomposition and constructive increase.
 - **Connection:** the bridge joining analytic and synthetic movement.
 
-### The decisive separation of layers
+---
+
+## 7. How the theoretical layers interlock
 
 | Question | Layer |
 |---|---|
-| What concrete entities are involved? | **Domain/content** |
+| What concrete entities are involved? | **Domain / content** |
+| How are the entities connected? | **Relational bindings** |
 | What kind of relation or transformation occurs? | **Ontological category** |
 | From whose or what frame is it represented? | **Inner / outer / archetypal perspective** |
 | Where does it sit relative to other terms? | **Directional topology** |
 | Why is that placement warranted? | **Relational premises and meta-logic** |
-| Does the whole model remain valid? | **Meta-coherence** |
-| How is it rebuilt elsewhere? | **World Building Method and meta-transfer** |
+| Does the complete model remain valid? | **Meta-coherence** |
+| How is a fitting context invented? | **World Building Method and meta-generation** |
+| How is it rebuilt elsewhere? | **Meta-transfer** |
+| How is it retained and revised through time? | **Temporal recurrence** |
 
-A compact representation is:
-
-`World instance = <nodes, bindings, category, perspective, topology, domain, temporal state>`
-
-None of these coordinates should be collapsed into another. A category has no permanent direction; a direction has no permanent semantic meaning; a domain supplies content but does not determine structure.
-
----
-
-## 6. How the categories activate the meta-operations
+The categories provide the **operator grammar**; the meta-operations provide the **executive cycle** that constructs and evaluates expressions written in that grammar.
 
 | Meta-operation | Category-level function |
 |---|---|
-| Meta-mapping | Aligns category, perspective, direction and domain across several relational models. |
+| Meta-mapping | Aligns category, perspective, direction and domain across several models. |
 | Meta-coherence | Tests whether selected operators and perspectives can coexist in the complete world. |
-| Meta-logic | Derives which category, perspective or relation follows from the supplied transformations. |
+| Meta-logic | Derives which category, perspective or relation follows from supplied transformations. |
 | Meta-distinction | Separates near-neighbours such as Difference from Division, or Inner Action from Outer Action. |
 | Meta-generation | Constructs a context satisfying every category–perspective–topology constraint. |
 | Meta-transfer | Preserves the operator equation while rebuilding it through unrelated subject matter. |
 
-The categories therefore provide the **grammar**, while the meta-operations provide the **executive cycle** that constructs and evaluates expressions written in that grammar.
-
 ---
 
-## 7. Premise-derived topology
+## 8. Premise-derived topology
 
 Ontological Worlds does not begin with an object at the centre of a completed compass. It begins with local premises such as:
 
@@ -230,68 +260,56 @@ Ontological Worlds does not begin with an object at the centre of a completed co
 
 The learner must infer the global arrangement from local constraints. A displayed centre is only a temporary reference node. The compass is the visible result of relational integration, not its starting point.
 
-With four directions, a learner may rely on broad contrasts. A sixteen-direction compass adds **representational resolution**: NNE, NE and ENE can share most properties while differing in relational weighting. This creates more boundaries at which the learner must discriminate, justify and revise.
-
-Additional compass positions do not automatically add independent dimensions. They provide finer resolution inside the current relational plane. New independent dimensions must be introduced through additional axes, premises or operator constraints.
+With four directions, a learner may rely on broad contrasts. A sixteen-direction compass adds **representational resolution**: NNE, NE and ENE may share most properties while differing in relational weighting. Additional compass points refine the current relational plane; they do not automatically create independent dimensions.
 
 ### Demonstrative sixteen-direction world
 
-The following animal-domain examples are demonstrative only:
+The following animal-domain examples are **demonstrative only**:
 
-- **N — Jurassic Park:** An institution for displaying animals becomes the reconstruction of an entire lost biological world.
-- **NNE — The invention of an entirely new species:** Unprecedented life is generated through deliberate intervention, with creation carrying the stronger weighting.
-- **NE — Genetically engineered superhumans:** Existing life is deliberately transformed into something categorically beyond its ordinary form.
-- **ENE — Engineering human-level intelligence in primates:** An existing species is intensively modified without becoming a wholly new category of life.
-- **E — A biological laboratory:** Existing organisms are subjected to controlled intervention and experimentation.
-- **ESE — An industrial animal-testing facility:** The organism becomes increasingly standardised and instrumentalised.
-- **SE — A cloned-livestock production complex:** Artificial control combines with conversion into engineered commercial units.
-- **SSE — An automated slaughterhouse:** A controlled system converts living beings into standardised material outputs.
-- **S — A taxidermy exhibition:** The living organism is reduced to a preserved physical object.
-- **SSW — A natural-history specimen archive:** The organism remains a specimen, but the reduction now serves historical preservation.
-- **SW — A cryogenic gene bank:** Living complexity is compressed into information for possible future restoration.
-- **WSW — A captive-breeding conservation centre:** Control remains, but it is directed toward preservation and eventual release.
-- **W — A nature reserve:** Animals possess substantially greater ecological autonomy than those contained for exhibition.
-- **WNW — A large-scale rewilding corridor:** The focus shifts from protecting units to restoring the relations that sustain an ecosystem.
-- **NW — A wildlife sanctuary:** The environment is organised around protection, welfare and greater autonomy.
-- **NNW — A de-extinction sanctuary:** Lost species are reconstructed and returned to a protected, self-sustaining ecological system.
+- **N — Jurassic Park:** reconstruction of an entire lost biological world.
+- **NNE — A newly invented species:** unprecedented creation with deliberate intervention.
+- **NE — Genetically engineered superhumans:** categorical transformation of existing life.
+- **ENE — Human-level intelligence in primates:** intensive modification of an existing species.
+- **E — A biological laboratory:** controlled intervention and experimentation.
+- **ESE — An industrial animal-testing facility:** standardisation and instrumentalisation.
+- **SE — A cloned-livestock complex:** engineered commercial biological units.
+- **SSE — An automated slaughterhouse:** living beings converted into material outputs.
+- **S — A taxidermy exhibition:** life reduced to a preserved object.
+- **SSW — A specimen archive:** reduction serving historical preservation.
+- **SW — A cryogenic gene bank:** complexity compressed for possible restoration.
+- **WSW — A captive-breeding centre:** managed preservation and eventual release.
+- **W — A nature reserve:** increased ecological autonomy.
+- **WNW — A rewilding corridor:** restoration of system-sustaining relations.
+- **NW — A wildlife sanctuary:** protection, welfare and greater autonomy.
+- **NNW — A de-extinction sanctuary:** reconstruction within a self-sustaining ecosystem.
 
-Each intermediate position must inherit the relevant structure of its neighbours while remaining distinguishable from them. A locally plausible answer can therefore be globally wrong.
+Each intermediate position must inherit relevant structure from its neighbours while remaining distinguishable from them. A locally plausible answer can therefore be globally wrong.
 
 ---
 
-## 8. Triadic integration
+## 9. Triadic integration and temporal recurrence
 
-A canonical Ontological Worlds task can combine category, perspective, symbol and topology:
+A canonical task can combine category, perspective, symbol and topology:
 
 > **Inner Action D; east to Outer Multiplication J; south to Projection M.**
 
-The letters are temporary nodes. The categories determine the required operations. The directional statements determine the relative topology. The learner must generate a context in which all three constraints are simultaneously true.
+The letters are temporary nodes. Categories determine the required operations. Perspectives determine orientation. Directional statements determine relative topology. The learner must generate one context in which all constraints are simultaneously true.
 
-This is more than pairwise analogy. It requires:
+This requires:
 
 - role–filler binding;
 - simultaneous maintenance of several relations;
 - perspective control;
 - global constraint satisfaction;
-- inference of unstated relations among all three nodes;
+- inference of unstated relations among all nodes;
 - generation of a coherent world rather than selection of a memorised answer.
 
-The triadic mode is the point at which the ontological categories become an executable grammar rather than a static taxonomy.
+The Imagi-World lineage used recurrence so that each premise could not be solved as an isolated event. In an n-back implementation, earlier category–relation bindings must be retained and compared with later ones. The world becomes **historical**: current meaning depends on earlier mappings, and new information may require revision of the retained model.
 
----
-
-## 9. Temporal recurrence and n-back
-
-The Imagi-World lineage used recurrence to prevent each premise from being solved as an isolated event. In an n-back implementation, earlier category–relation bindings must be retained and compared with later ones. This adds updating, interference management and temporal integration to the spatial or semantic topology.
-
-The theoretical function of recurrence is therefore not merely memory load. It is to make the world **historical**: current meaning depends on earlier mappings, and a new relation can require revision of the retained model.
-
-Within-stream recombination and cross-trial recombination should remain distinct:
-
-- **Within-stream recombination** integrates relations presented in the current configuration.
+- **Within-stream recombination** integrates relations in the current configuration.
 - **Cross-trial recombination** compares or transforms structures retained from earlier configurations.
 
-Timing and load require calibration. Claims that very short presentation speeds or high loads produce broad cognitive benefits remain experimental and should not be stated as established findings.
+Timing and load require calibration. Claims that extreme presentation speeds or loads produce broad cognitive benefits remain experimental.
 
 ---
 
@@ -299,35 +317,35 @@ Timing and load require calibration. Claims that very short presentation speeds 
 
 The animal examples above are for **demonstrative purposes only**. The intended exercise is cross-domain. A valid transfer preserves the relational equation while replacing the surface material.
 
-### North-northeast: unprecedented creation with deliberate intervention
+### NNE: unprecedented creation with deliberate intervention
 
 - Biology: inventing a new species.
 - Technology: creating a fundamentally new form of computing.
-- Government: designing a previously nonexistent form of political organisation.
+- Government: designing a previously nonexistent political organisation.
 - Language: constructing a symbolic system for previously inexpressible relations.
 
-### East-northeast: intensive transformation of an existing category
+### ENE: intensive transformation of an existing category
 
 - Biology: engineering human-level intelligence in primates.
-- Technology: converting a narrow AI into a general reasoning system.
-- Business: transforming a conventional company into a deeply automated organisation.
-- Education: augmenting an existing learner rather than replacing the institution.
+- Technology: converting narrow AI into general reasoning.
+- Business: transforming a conventional company through deep automation.
+- Education: technologically augmenting an existing learner.
 
-### Southwest: compression for preservation and possible restoration
+### SW: compression for preservation and possible restoration
 
 - Biology: storing endangered life as genetic information.
 - Culture: archiving an endangered language for revival.
-- Technology: preserving the code and data of a discontinued ecosystem.
+- Technology: preserving a discontinued ecosystem as code and data.
 - Government: retaining institutional records of a collapsed state for reconstruction.
 
-### West-northwest: restoration of relations that sustain a whole
+### WNW: restoration of relations sustaining a whole
 
 - Ecology: reconnecting fragmented habitats.
 - Education: integrating isolated disciplines.
 - Psychology: reintegrating compartmentalised memories and emotional systems.
-- Technology: connecting independent open-source projects into an interoperable ecosystem.
+- Technology: connecting independent projects into an interoperable ecosystem.
 
-A learner who remembers that “Jurassic Park was north” has learned a label. A learner who understands the premises that made it north can reconstruct an equivalent position in law, technology, psychology, politics, medicine or another domain.
+A learner who remembers that “Jurassic Park was north” has learned a label. A learner who understands the premises that made it north can reconstruct an equivalent position through law, technology, medicine, politics, psychology or another domain.
 
 ---
 
@@ -344,7 +362,7 @@ Ontological Worlds is designed to exercise the ability to:
 - detect local and global contradictions;
 - generate exact relational continuations;
 - revise a model when one relation changes;
-- preserve an abstract structure across unrelated domains.
+- preserve abstract structure across unrelated domains.
 
 The compass is only the interface.
 
@@ -355,32 +373,32 @@ The compass is only the interface.
 - **Meta-generation extends it through constrained invention.**
 - **Meta-transfer reconstructs it in another world.**
 
-The ontological categories supply the operator grammar; the World Building Method supplies generative execution; the directional topology supplies relational resolution; and temporal recurrence forces the model to remain active and revisable through time.
+The ontological categories supply the operator grammar; the World Building Method supplies generative execution; directional topology supplies relational resolution; and temporal recurrence keeps the model active and revisable through time.
 
 ---
 
 ## 12. Research status and testable claims
 
-Ontological Worlds is a conceptual and experimental framework. Its internal coherence is not, by itself, proof of increased general intelligence or far transfer.
+Ontological Worlds is a conceptual and experimental framework. Internal theoretical coherence is not proof of increased general intelligence or far transfer.
 
-A serious evaluation should distinguish training performance from transfer and measure at least:
+A serious evaluation should distinguish trained performance from transfer and measure:
 
-1. **Novel relational inference:** accuracy on structures not encountered during training.
-2. **Near-neighbour discrimination:** accuracy among closely weighted alternatives such as NNE, NE and ENE.
-3. **Global-coherence error:** rate of locally plausible answers that contradict the complete model.
+1. **Novel relational inference:** accuracy on unseen structures.
+2. **Near-neighbour discrimination:** accuracy among closely weighted alternatives.
+3. **Global-coherence error:** locally plausible answers contradicting the complete model.
 4. **Generative validity:** whether created contexts satisfy all supplied constraints.
-5. **Cross-domain transfer:** preservation of structure when surface domain and vocabulary are changed.
+5. **Cross-domain transfer:** structure preserved when vocabulary and domain change.
 6. **Relational complexity:** performance as simultaneously integrated relations increase.
-7. **Temporal revision:** ability to update a retained model when later premises alter earlier implications.
-
-These measures would test the specific theory rather than relying on improvement within the trained interface alone.
+7. **Temporal revision:** updating a retained model when later premises alter earlier implications.
 
 ---
 
 ## 13. Source lineage and scope
 
-- [Experimental research enquiry: relational reasoning, associative learning, ontological abstraction and cross-domain analogical transformations](https://groups.google.com/g/brain-training/c/fN89KBULr5M)
-- [Ontological-category source associated with Brandon Woodson](https://groups.google.com/g/brain-training/c/gh5xgRRwVtc)
+- [Experimental research enquiry: relational reasoning, associative learning, ontological abstraction and cross-domain transformation](https://groups.google.com/g/brain-training/c/fN89KBULr5M)
+- [Brandon Woodson’s ontological-category synthesis](https://groups.google.com/g/brain-training/c/gh5xgRRwVtc)
+- [Stan Tenen’s Meru Matrix of Meaning](https://www.meru.org/1Letters.html)
+- [Meru Foundation background](https://meru.org/AboutMeru.html)
 - [Imagi-World and Da Vinci Method development thread](https://groups.google.com/g/brain-training/c/QjO9e7N2n8s)
 
-The ontological taxonomy is used here as a functional reasoning vocabulary. Its source thread presents an interpretive synthesis; this repository does not represent those correspondences as settled Hebrew linguistics, theology or experimentally validated cognitive science. The operational definitions above are designed to preserve the relational distinctions while making them usable within Ontological Worlds.
+The taxonomy is used here as a functional reasoning vocabulary. Woodson’s synthesis is not represented as settled Hebrew linguistics or Jewish theology. Tenen’s Meru research is credited as the principal creative and structural inspiration rather than conflated with Woodson’s later category system. Claims of cognitive improvement remain hypotheses requiring controlled empirical testing.
