@@ -1,21 +1,21 @@
 # ~ Ontological Worlds ~
 
-A theory and training architecture for **relational integration**: constructing, compressing, interpreting, distinguishing, synthesising, generating and transferring abstract relational worlds.
+A theory and training architecture for **relational integration**: constructing, compressing, interpreting, differentiating, synthesising, embodying and transferring abstract relational worlds.
 
 ## Repository contents
 
-- [`index.html`](index.html) — polished standalone theory site.
+- [`index.html`](index.html) — professional standalone theory site.
 - [`THEORY.md`](THEORY.md) — complete theoretical reference.
 
 ## The framework in one sentence
 
-Ontological Worlds develops a relational field from local premises into an integrated world: associations supply material; relational bindings organise that material; ontological categories specify its operations; directional topology gives those operations position and weighting; the eight meta-operations progressively give the world form, density, unity, consequence, resolution, emergence, embodiment and cross-domain reach.
+Ontological Worlds asks the learner to infer a topology from relational premises, organise it through domain-independent ontological operators and perspective, condense it into increasingly powerful representations, unfold its consequences, resolve its qualitative structure, synthesise higher-order architectures, embody those architectures as coherent worlds and reconstruct them across domains and time.
 
 ## One architecture, several mutually reinforcing layers
 
 | Layer | Contribution to the whole |
 |---|---|
-| Association | Supplies concrete, remembered and imagined material from which worlds can be formed. |
+| Association | Supplies concrete, remembered and imagined material. |
 | Relational binding | Organises that material into roles, dependencies, contrasts, transformations and correspondences. |
 | Relational integration | Holds several bindings together as one model whose implications can be developed. |
 | Ontological categories | Supply a reusable grammar for identifying the kind of relation or transformation occurring. |
@@ -29,15 +29,15 @@ A compact representation is:
 
 `World instance = <nodes, bindings, category, perspective, topology, domain, temporal state>`
 
-Each coordinate contributes a different form of information while participating in the same world. The framework becomes powerful through their interaction: categories make topology interpretable; topology gives category instances relational position; compression makes the combined field manipulable; synthesis reorganises it into a higher-order architecture; generation embodies that architecture; transfer reveals its invariant across domains.
+Each coordinate contributes a distinct form of information while participating in the same world. Categories make topology interpretable. Topology gives category instances relational position. Perspective determines orientation. Temporal recurrence gives the configuration history. The eight meta-operations progressively transform the complete field.
 
-## The eightfold generative cycle
+## The eightfold generative architecture
 
 1. **Meta-mapping — relational form**  
    Constructs, aligns and links relational fields.
 
 2. **Meta-compression — representational density**  
-   Distils relations among mappings into equations, graphs, matrices, invariants or operator structures while preserving their inferential power.
+   Distils relations among mappings into equations, graphs, matrices, invariants or operator structures while preserving their inferential and generative power.
 
 3. **Meta-coherence — global unity**  
    Integrates premises, categories, perspectives, topology and compressed representations into one mutually supporting whole.
@@ -63,7 +63,16 @@ The cycle is recursive:
 
 **map and link → compress → integrate coherently → infer → distinguish → synthesise → generate → transfer → remap**
 
-Its sophistication lies in reciprocal development rather than simple succession. Mapping provides compression with a relational field; compression allows more of that field to be held and manipulated; coherence organises both expanded and compressed forms; logic develops their implications; distinction refines their gradients; synthesis converts refined structures into emergent wholes; generation makes those wholes inspectable; transfer returns them as enriched mappings.
+## Four generative couplings
+
+| Coupling | Systemic function |
+|---|---|
+| Mapping ↔ Compression | The relational field and its dense, manipulable representation continually refine one another. |
+| Coherence ↔ Logic | Global integration makes implication possible; derived consequences deepen the integrated model. |
+| Distinction ↔ Synthesis | Precise differences become productive ingredients of emergent higher-order wholes. |
+| Generation ↔ Transfer | Concrete embodiment gives an architecture form; cross-domain reconstruction expands its range and returns new worlds to the cycle. |
+
+These couplings operate across several scales. A generated world can become one node in a larger mapping. A synthesis can be compressed into a single operator. A transferred invariant can become the organising principle of another ontology. Temporal recurrence carries these products across trials, allowing the architecture to develop cumulatively.
 
 ## The World Building Method
 
@@ -71,9 +80,9 @@ The **World Building Method** is the accessible name for the generative process 
 
 - **analogical juxtaposition**, which identifies structural correspondence;
 - **analytical juxtaposition**, which resolves distinctions and constraints;
-- **transformational juxtaposition**, which determines how a structure can change while retaining or deliberately altering its relational identity.
+- **transformational juxtaposition**, which determines how a structure changes across relational positions and domains.
 
-The method is where the full architecture converges. Meta-mapping establishes the field, meta-compression gives it a tractable symbolic form, meta-synthesis creates a higher-order design, and meta-generation embodies that design as a coherent world. Meta-transfer then carries the resulting architecture into new domains.
+The method is where the full architecture converges. Meta-mapping establishes the field, meta-compression gives it a tractable symbolic form, meta-coherence integrates it, meta-logic unfolds its consequences, meta-distinction resolves its exact structure, meta-synthesis creates a higher-order design, and meta-generation embodies that design as a coherent world. Meta-transfer then carries the resulting architecture into new domains and begins another cycle.
 
 ## Ontological categories and intellectual lineage
 
@@ -88,6 +97,7 @@ Tenen’s 27-letter **Matrix of Meaning**, organised into Archetypal, Inner/Spir
 Ontological Worlds is a conceptual and experimental framework whose empirical status can be progressively established through measures of:
 
 - novel relational inference;
+- mapping quality and relational linking;
 - representational compression and reconstruction;
 - global integration;
 - near-neighbour discrimination;
